@@ -5,7 +5,9 @@ Guided - a personalized study app that helps students balance their academics wh
 
 ## competition detail
 GrpName: 4FR
+
 Track: Student lifestyle
+
 Problem Statement: Mental Health Support For Students
 
 ## Link
